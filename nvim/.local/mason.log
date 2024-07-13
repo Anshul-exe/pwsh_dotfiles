@@ -1,0 +1,257 @@
+[INFO  07-07-24 2.46.51 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  07-07-24 2.46.51 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  07-07-24 2.46.51 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  07-07-24 2.46.56 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  07-07-24 2.46.56 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  07-07-24 2.47.04 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  07-07-24 4.13.59 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  07-07-24 4.14.11 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=typescript-language-server)
+[INFO  07-07-24 4.14.48 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ast-grep) {}
+[INFO  07-07-24 4.15.02 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ast-grep)
+[INFO  07-07-24 4.18.01 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=basedpyright) {}
+[ERROR 07-07-24 4.18.38 AM] ...zy/mason.nvim/lua/mason-core/installer/registry/init.lua:186: Failed to download schemas Package(name=basedpyright) Expected comma or object end but found invalid token at character 36658
+[INFO  07-07-24 4.18.38 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=basedpyright)
+[INFO  09-07-24 8.37.49 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  09-07-24 8.37.49 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=codelldb) {}
+[INFO  09-07-24 8.37.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=tailwindcss-language-server) {}
+[INFO  09-07-24 8.37.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=taplo) {}
+[INFO  09-07-24 8.37.55 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=eslint-lsp) {}
+[INFO  09-07-24 8.37.55 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  09-07-24 8.37.56 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  09-07-24 8.37.56 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=tailwindcss-language-server)
+[INFO  09-07-24 8.37.58 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[INFO  09-07-24 8.37.58 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=taplo)
+[INFO  09-07-24 8.38.06 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=vtsls)
+[INFO  09-07-24 8.38.13 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
+[INFO  09-07-24 8.38.16 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=eslint-lsp)
+[INFO  09-07-24 8.38.19 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=codelldb)
+[INFO  10-07-24 8.36.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=selene) {}
+[INFO  10-07-24 8.36.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[INFO  10-07-24 8.36.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shellcheck) {}
+[INFO  10-07-24 8.36.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  10-07-24 8.36.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=jedi-language-server) {}
+[ERROR 10-07-24 8.36.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.36.52 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shellcheck)
+[INFO  10-07-24 8.36.54 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=selene)
+[INFO  10-07-24 8.37.05 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-lsp)
+[INFO  10-07-24 8.37.07 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=jedi-language-server)
+[INFO  10-07-24 8.42.14 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.42.14 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.43.18 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.43.18 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.46.35 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.46.36 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.47.40 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.47.40 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.47.57 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.47.59 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.48.30 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.48.30 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.49.10 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.49.11 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.55.18 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.55.22 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.55.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.55.50 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 8.59.26 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 8.59.27 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.00.29 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.00.29 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.02.36 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.02.36 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.03.34 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.03.34 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.05.34 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.05.34 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.05.59 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.05.59 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.08.48 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.08.48 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.12.26 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.12.26 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.13.55 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.13.55 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.14.21 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.14.21 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.14.40 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.14.40 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.18.14 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.18.14 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.20.11 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.20.11 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.20.28 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.20.28 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.21.07 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.21.07 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.21.42 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.21.42 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.22.12 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.22.12 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.22.21 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.22.21 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.22.31 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.22.31 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 9.23.10 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 9.23.10 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 11.29.47 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 11.29.48 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 11.41.40 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 11.41.41 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 11.42.34 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 11.42.35 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 11.49.21 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 11.49.41 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 11.54.25 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 11.54.26 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 11.55.24 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 11.55.25 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 11.58.05 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 11.58.05 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  10-07-24 11.59.53 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 10-07-24 11.59.54 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.11.13 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.11.13 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.15.31 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.15.32 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.17.08 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.17.08 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.17.33 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.17.34 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.25.47 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.25.48 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.34.39 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.34.44 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.35.44 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.35.45 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.40.00 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.40.00 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.44.40 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.44.41 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.45.54 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.45.55 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.47.01 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.47.01 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.47.14 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.47.14 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.47.43 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.47.43 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.48.12 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.48.12 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.49.14 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.49.14 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.51.49 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.51.49 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.52.19 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.52.20 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.53.40 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.53.41 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.54.19 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.54.19 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.54.29 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.54.29 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.54.45 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.54.45 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 12.55.59 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 12.55.59 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.01.06 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.01.06 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.02.22 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.02.22 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.02.46 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.02.46 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.04.35 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.04.35 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.06.16 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.06.16 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.07.26 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.07.26 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.28.39 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.28.39 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.31.17 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.31.18 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.32.23 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.32.24 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.36.10 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.36.11 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.37.22 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.37.23 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.39.22 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.39.23 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 1.59.08 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 1.59.09 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.06.42 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.06.42 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.10.11 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.10.11 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.10.41 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.10.41 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.14.23 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.14.24 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.19.37 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.19.37 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.24.20 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.24.20 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.25.37 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.25.37 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.27.00 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.27.01 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.27.18 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.27.18 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.28.06 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.28.06 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.28.38 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.28.38 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.28.47 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.28.48 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.29.59 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.29.59 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.30.21 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.30.21 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.30.52 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.30.52 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.31.15 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.31.16 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.31.41 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.31.42 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.32.05 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.32.05 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.35.00 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.35.00 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.55.53 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.55.54 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 2.57.22 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 2.57.22 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 3.58.06 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 3.58.06 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 4.03.32 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 4.03.33 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 4.17.50 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 4.18.13 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 4.18.44 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 4.18.48 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 4.19.09 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 4.19.09 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 4.20.38 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 4.20.38 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 4.31.07 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 4.31.07 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 4.34.23 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 4.34.24 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  11-07-24 4.35.09 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 11-07-24 4.35.09 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  12-07-24 2.35.58 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 12-07-24 2.35.58 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  12-07-24 2.38.37 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 12-07-24 2.38.37 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  12-07-24 2.39.10 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 12-07-24 2.39.10 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  12-07-24 2.41.00 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 12-07-24 2.41.01 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  12-07-24 2.41.59 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 12-07-24 2.41.59 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  12-07-24 2.42.08 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 12-07-24 2.42.08 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  13-07-24 5.11.30 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 13-07-24 5.11.31 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  13-07-24 5.12.29 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 13-07-24 5.12.30 AM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable

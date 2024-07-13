@@ -1,0 +1,130 @@
+#Prompt
+Import-Module posh-git
+# _________________________________________________________________________________________________________________
+
+# Load prompt config
+function Get-ScriptDirectory { Split-Path $MyInvocation.ScriptName}
+$PROMPT_CONFIG = Join-Path (Get-ScriptDirectory) 'anshu.omp.json'
+oh-my-posh --init --shell pwsh --config $PROMPT_CONFIG | Invoke-Expression
+# _________________________________________________________________________________________________________________
+
+# Icons
+Import-Module -Name Terminal-Icons
+# _________________________________________________________________________________________________________________
+
+# PSReadLine
+Set-PSReadLineOption -EditMode Emacs
+Set-PSReadLineOption -BellStyle None
+Set-PSReadLineKeyHandler -Chord 'Ctrl+d' -Function DeleteChar
+Set-PSReadlineOption -PredictionSource History
+# _________________________________________________________________________________________________________________
+
+# Fzf
+Import-Module PSFzf
+Set-PsFzfOption -PSReadlineChordProvider 'Ctrl+f' -PSReadlineChordReverseHistory 'Ctrl+r'
+# _________________________________________________________________________________________________________________
+
+# Alias
+Set-Alias -Name g -value git
+Set-Alias -Name ll -value ls
+Set-Alias -Name vim -value nvim
+Set-Alias -Name grep -value findstr
+Set-Alias -Name tig -value 'C:\Program Files\Git\usr\bin\tig.exe'
+Set-Alias -Name less -value 'C:\Program Files\Git\usr\bin\less.exe'
+Set-Alias -Name go-code -value codeLore
+Set-Alias -Name go-clear -value Clear_Space
+Set-Alias -Name neofetch -value "C:\Users\anshu\scoop\apps\neofetch\current\neofetch.bat"
+Set-Alias -Name perm -value get-FilePermissions
+Set-Alias -Name make -value "C:\Program Files (x86)\GnuWin32\bin\make.exe"
+Set-Alias -Name touch -value New-Item
+
+# _________________________________________________________________________________________________________________
+
+# Utilities
+function which ($command) {
+           Get-Command -Name $command -ErrorAction SilentlyContinue |
+              Select-Object -ExpandProperty Path -ErrorAction SilentlyContinue
+        }
+# _________________________________________________________________________________________________________________
+
+# Google & Youtube Shortcuts
+function yt {
+    param (
+        [string]$Parameter1
+    )
+    Write-Host "$Parameter1"
+    Start chrome "https://www.youtube.com/search?q=${Parameter1}"
+}
+
+function google {
+    param (
+        [string]$Parameter2
+    )
+    Write-Host "$Parameter2"
+    Start chrome https://www.google.com/search?q=$Parameter2
+}
+# _________________________________________________________________________________________________________________
+
+# Functions for Creating Aliases
+function codeLore {Set-Location -Path C:\Clear_space\codeLore}
+function Clear_Space {Set-Location -Path C:\Clear_space}
+function mir {Set-Location -Path  "\\wsl$\Ubuntu\home\mirx"}
+function x {exit}
+function xx {shutdown /s /t 0}
+function xr {shutdown /r /t 0}
+function xh {shutdown /h}
+#Function CD32 {Set-Location -Path C:\Windows\System32}
+# _________________________________________________________________________________________________________________
+
+# Function for viewing permission of a given file
+function Get-FilePermissions {
+    param (
+        [string]$FilePath
+    )
+
+    if (-not (Test-Path -Path $FilePath)) {
+        Write-Output "The file does not exist."
+        return
+    }
+
+    $acl = Get-Acl -Path $FilePath
+    $currentUser = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
+    $permissions = $acl.Access | Where-Object {
+        ($_.IdentityReference -eq $currentUser) -and
+        ($_.AccessControlType -eq [System.Security.AccessControl.AccessControlType]::Allow)
+    }
+
+    $hasRead = $permissions | Where-Object { $_.FileSystemRights -band [System.Security.AccessControl.FileSystemRights]::Read }
+    $hasWrite = $permissions | Where-Object { $_.FileSystemRights -band [System.Security.AccessControl.FileSystemRights]::Write }
+    $hasExecute = $permissions | Where-Object { $_.FileSystemRights -band [System.Security.AccessControl.FileSystemRights]::ExecuteFile }
+
+    $result = [PSCustomObject]@{
+        FileName   = $FilePath
+        Read       = $hasRead -ne $null
+        Write      = $hasWrite -ne $null
+        Execute    = $hasExecute -ne $null
+    }
+
+    $result | Format-Table -AutoSize
+}
+# _________________________________________________________________________________________________________________
+
+# Welcome Text
+Write-Host @'
+██╗░░░░░░░██╗ ███████╗ ██╗░░░░░ ░█████╗░ ░█████╗░ ███╗░░░███╗ ███████╗   ██████╗░ ░█████╗░ ░█████╗░ ██╗░░██╗
+██║░░██╗░░██║ ██╔════╝ ██║░░░░░ ██╔══██╗ ██╔══██╗ ████╗░████║ ██╔════╝   ██╔══██╗ ██╔══██╗ ██╔══██╗ ██║░██╔╝
+╚██╗████╗██╔╝ █████╗░░ ██║░░░░░ ██║░░╚═╝ ██║░░██║ ██╔████╔██║ █████╗░░   ██████╦╝ ███████║ ██║░░╚═╝ █████═╝░
+░████╔═████║░ ██╔══╝░░ ██║░░░░░ ██║░░██╗ ██║░░██║ ██║╚██╔╝██║ ██╔══╝░░   ██╔══██╗ ██╔══██║ ██║░░██╗ ██╔═██╗░
+░╚██╔╝░╚██╔╝░ ███████╗ ███████╗ ╚█████╔╝ ╚█████╔╝ ██║░╚═╝░██║ ███████╗   ██████╦╝ ██║░░██║ ╚█████╔╝ ██║░╚██╗
+░░╚═╝░░░╚═╝░░ ╚══════╝ ╚══════╝ ░╚════╝░ ░╚════╝░ ╚═╝░░░░░╚═╝ ╚══════╝   ╚═════╝░ ╚═╝░░╚═╝ ░╚════╝░ ╚═╝░░╚═╝
+
+                  ░█████╗░ ███╗░░██╗ ░██████╗ ██╗░░██╗ ██╗░░░██╗ ██╗░░░░░
+                  ██╔══██╗ ████╗░██║ ██╔════╝ ██║░░██║ ██║░░░██║ ██║░░░░░
+                  ███████║ ██╔██╗██║ ╚█████╗░ ███████║ ██║░░░██║ ██║░░░░░
+                  ██╔══██║ ██║╚████║ ░╚═══██╗ ██╔══██║ ██║░░░██║ ██║░░░░░
+                  ██║░░██║ ██║░╚███║ ██████╔╝ ██║░░██║ ╚██████╔╝ ███████╗
+                  ╚═╝░░╚═╝ ╚═╝░░╚══╝ ╚═════╝░ ╚═╝░░╚═╝ ░╚═════╝░ ╚══════╝
+'@ -ForegroundColor Blue
+# _________________________________________________________________________________________________________________
+
+#==================================================================================================================

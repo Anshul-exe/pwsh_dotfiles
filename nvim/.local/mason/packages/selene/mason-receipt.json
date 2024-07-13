@@ -1,0 +1,1 @@
+{"name":"selene","metrics":{"start_time":1720624010462,"completion_time":1720624014686},"links":{"bin":{"selene.cmd":"selene.exe"},"opt":{},"share":{}},"primary_source":{"id":"pkg:github\/kampfkarren\/selene@0.27.1","type":"registry+v1"},"secondary_sources":[],"schema_version":"1.1"}

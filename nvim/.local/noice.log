@@ -1,0 +1,20 @@
+
+
+10-07-24 8.18.23 PM
+...ata/Local/nvim-data/lazy/nui.nvim/lua/nui/popup/init.lua:168: Invalid window id: 1080
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_open_win'
+	...ata/Local/nvim-data/lazy/nui.nvim/lua/nui/popup/init.lua:168: in function '_open_window'
+	...ata/Local/nvim-data/lazy/nui.nvim/lua/nui/popup/init.lua:288: in function 'show'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:282: in function 'show'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:155: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:153>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:162: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:227: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:160>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:109: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:77>

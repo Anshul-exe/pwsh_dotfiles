@@ -1,0 +1,36 @@
+23:47:34[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `=`. (starting from line 50, character 12 and ending on line 50, character 13)
+additional information: expected ')'
+
+02:24:46[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 29 and ending on line 213, character 36)
+additional information: expected '}'
+
+02:26:47[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `p`. (starting from line 213, character 26 and ending on line 213, character 27)
+additional information: expected '}'
+
+02:27:14[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 27 and ending on line 213, character 34)
+additional information: expected '}'
+
+02:27:54[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 26 and ending on line 213, character 33)
+additional information: expected '}'
+
+02:28:32[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 24 and ending on line 213, character 31)
+additional information: expected '}'
+
+02:29:55[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 27 and ending on line 213, character 34)
+additional information: expected '}'
+
+02:30:15[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 24 and ending on line 213, character 31)
+additional information: expected '}'
+
+02:30:48[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 25 and ending on line 213, character 32)
+additional information: expected '}'
+
+02:31:10[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 25 and ending on line 213, character 32)
+additional information: expected '}'
+
+02:31:38[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 24 and ending on line 213, character 31)
+additional information: expected '}'
+
+02:32:01[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: error occurred while creating ast: unexpected token `enabled`. (starting from line 213, character 32 and ending on line 213, character 39)
+additional information: expected '}'
+

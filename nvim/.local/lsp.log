@@ -1,0 +1,254 @@
+[START][2024-07-09 20:32:30] LSP logging initiated
+[WARN][2024-07-09 20:32:30] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 20:37:50] LSP logging initiated
+[WARN][2024-07-09 20:37:50] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 20:42:04] LSP logging initiated
+[WARN][2024-07-09 20:42:04] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:02:52] LSP logging initiated
+[WARN][2024-07-09 21:02:52] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:03:14] LSP logging initiated
+[WARN][2024-07-09 21:03:14] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:04:31] LSP logging initiated
+[WARN][2024-07-09 21:04:31] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:05:15] LSP logging initiated
+[WARN][2024-07-09 21:05:15] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:06:49] LSP logging initiated
+[WARN][2024-07-09 21:06:49] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-09 21:07:22] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:07:36] LSP logging initiated
+[WARN][2024-07-09 21:07:36] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:10:22] LSP logging initiated
+[WARN][2024-07-09 21:10:22] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:13:18] LSP logging initiated
+[WARN][2024-07-09 21:13:18] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:13:31] LSP logging initiated
+[WARN][2024-07-09 21:13:31] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:18:16] LSP logging initiated
+[WARN][2024-07-09 21:18:16] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:20:14] LSP logging initiated
+[WARN][2024-07-09 21:20:14] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-09 21:20:43] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 62): "
+[START][2024-07-09 21:22:41] LSP logging initiated
+[WARN][2024-07-09 21:22:41] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:23:17] LSP logging initiated
+[WARN][2024-07-09 21:23:17] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-09 21:23:17] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:28:49] LSP logging initiated
+[WARN][2024-07-09 21:28:49] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:31:46] LSP logging initiated
+[WARN][2024-07-09 21:31:46] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:33:52] LSP logging initiated
+[WARN][2024-07-09 21:33:52] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-09 21:37:43] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 1): "
+[START][2024-07-09 21:37:46] LSP logging initiated
+[WARN][2024-07-09 21:37:46] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[ERROR][2024-07-09 21:42:13] .../vim/lsp/rpc.lua:770	"rpc"	"node"	"stderr"	'[ERROR] [fetch] [2024-07-09T16:12:13.262Z] Unhandled status from server: 500 {"error":{"code":null,"message":"The server had an error while processing your request. Sorry about that!","param":null,"type":"server_error"}}\n\n'
+[START][2024-07-09 21:43:33] LSP logging initiated
+[WARN][2024-07-09 21:43:33] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 21:46:49] LSP logging initiated
+[WARN][2024-07-09 21:46:49] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 23:39:24] LSP logging initiated
+[WARN][2024-07-09 23:39:24] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[ERROR][2024-07-09 23:39:24] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="initialize"\n'
+[ERROR][2024-07-09 23:39:24] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="textDocument/foldingRange"\n'
+[ERROR][2024-07-09 23:39:24] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="textDocument/documentSymbol"\n INFO taplo: registered request handler method="textDocument/formatting"\n INFO taplo: registered request handler method="textDocument/completion"\n INFO taplo: registered request handler method="textDocument/documentLink"\n INFO taplo: registered request handler method="textDocument/hover"\n INFO taplo: registered request handler method="textDocument/semanticTokens/full"\n INFO taplo: registered request handler method="textDocument/prepareRename"\n INFO taplo: registered notification handler method="initialized"\n'
+[ERROR][2024-07-09 23:39:24] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="textDocument/rename"\n INFO taplo: registered notification handler method="textDocument/didOpen"\n INFO taplo: registered notification handler method="textDocument/didChange"\n'
+[ERROR][2024-07-09 23:39:24] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered notification handler method="textDocument/didSave"\n'
+[ERROR][2024-07-09 23:39:24] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered notification handler method="textDocument/didClose"\n INFO taplo: registered notification handler method="workspace/didChangeConfiguration"\n'
+[ERROR][2024-07-09 23:39:24] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered notification handler method="workspace/didChangeWorkspaceFolders"\n INFO taplo: registered request handler method="taplo/associatedSchema"\n INFO taplo: registered request handler method="taplo/convertToJson"\n INFO taplo: registered request handler method="taplo/convertToToml"\n INFO taplo: registered request handler method="taplo/listSchemas"\n INFO taplo: registered notification handler method="taplo/associateSchema"\n'
+[ERROR][2024-07-09 23:39:24] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: LSP server listening transport="stdio"\n'
+[WARN][2024-07-09 23:39:53] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 83): "
+[ERROR][2024-07-09 23:39:53] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	" INFO taplo: received shutdown request id=Number(5) method=shutdown\n"
+[START][2024-07-09 23:40:06] LSP logging initiated
+[WARN][2024-07-09 23:40:06] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 23:41:12] LSP logging initiated
+[WARN][2024-07-09 23:41:12] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-09 23:47:24] LSP logging initiated
+[WARN][2024-07-09 23:47:24] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 00:20:49] LSP logging initiated
+[WARN][2024-07-10 00:20:49] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[ERROR][2024-07-10 00:32:47] ...lsp/handlers.lua:623	"TSServer exited. Code: null. Signal: SIGTERM"
+[START][2024-07-10 00:41:16] LSP logging initiated
+[ERROR][2024-07-10 00:41:16] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="initialize"\n INFO taplo: registered request handler method="textDocument/foldingRange"\n INFO taplo: registered request handler method="textDocument/documentSymbol"\n INFO taplo: registered request handler method="textDocument/formatting"\n INFO taplo: registered request handler method="textDocument/completion"\n INFO taplo: registered request handler method="textDocument/hover"\n INFO taplo: registered request handler method="textDocument/documentLink"\n INFO taplo: registered request handler method="textDocument/semanticTokens/full"\n INFO taplo: registered request handler method="textDocument/prepareRename"\n INFO taplo: registered request handler method="textDocument/rename"\n INFO taplo: registered notification handler method="initialized"\n INFO taplo: registered notification handler method="textDocument/didOpen"\n INFO taplo: registered notification handler method="textDocument/didClose"\n INFO taplo: registered notification handler method="workspace/didChangeConfiguration"\n INFO taplo: registered notification handler method="textDocument/didSave"\n INFO taplo: registered notification handler method="textDocument/didChange"\n INFO taplo: registered request handler method="taplo/convertToJson"\n INFO taplo: registered notification handler method="workspace/didChangeWorkspaceFolders"\n'
+[ERROR][2024-07-10 00:41:16] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="taplo/convertToToml"\n INFO taplo: registered notification handler method="taplo/associateSchema"\n INFO taplo: registered request handler method="taplo/associatedSchema"\n INFO taplo: registered request handler method="taplo/listSchemas"\n'
+[ERROR][2024-07-10 00:41:16] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: LSP server listening transport="stdio"\n'
+[ERROR][2024-07-10 00:41:40] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	" INFO taplo: received shutdown request id=Number(6) method=shutdown\n"
+[START][2024-07-10 00:42:00] LSP logging initiated
+[ERROR][2024-07-10 00:42:00] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="initialize"\n'
+[ERROR][2024-07-10 00:42:00] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="textDocument/foldingRange"\n INFO taplo: registered request handler method="textDocument/documentSymbol"\n INFO taplo: registered request handler method="textDocument/formatting"\n INFO taplo: registered request handler method="textDocument/completion"\n INFO taplo: registered request handler method="textDocument/hover"\n INFO taplo: registered request handler method="textDocument/documentLink"\n INFO taplo: registered request handler method="textDocument/rename"\n INFO taplo: registered notification handler method="textDocument/didOpen"\n'
+[ERROR][2024-07-10 00:42:00] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered notification handler method="textDocument/didClose"\n INFO taplo: registered notification handler method="workspace/didChangeConfiguration"\n INFO taplo: registered request handler method="taplo/convertToJson"\n INFO taplo: registered request handler method="taplo/listSchemas"\n INFO taplo: registered notification handler method="textDocument/didSave"\n INFO taplo: registered notification handler method="taplo/associateSchema"\n INFO taplo: registered request handler method="textDocument/semanticTokens/full"\n INFO taplo: registered notification handler method="workspace/didChangeWorkspaceFolders"\n INFO taplo: registered notification handler method="textDocument/didChange"\n INFO taplo: registered request handler method="taplo/convertToToml"\n INFO taplo: registered request handler method="textDocument/prepareRename"\n INFO taplo: registered request handler method="taplo/associatedSchema"\n'
+[ERROR][2024-07-10 00:42:00] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered notification handler method="initialized"\n'
+[ERROR][2024-07-10 00:42:00] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: LSP server listening transport="stdio"\n'
+[ERROR][2024-07-10 00:46:14] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	" INFO taplo: received shutdown request id=Number(4) method=shutdown\n"
+[START][2024-07-10 00:59:01] LSP logging initiated
+[WARN][2024-07-10 00:59:01] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-10 01:00:40] ...m/lsp/client.lua:1023	"server_request: no handler found for"	"workspace/diagnostic/refresh"
+[ERROR][2024-07-10 01:00:40] ...lsp/handlers.lua:623	"Unhandled exception: MethodNotFound\nError: MethodNotFound\n    at handleResponse (C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\packages\\json-lsp\\node_modules\\vscode-langservers-extracted\\node_modules\\vscode-jsonrpc\\lib\\common\\connection.js:595:48)\n    at handleMessage (C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\packages\\json-lsp\\node_modules\\vscode-langservers-extracted\\node_modules\\vscode-jsonrpc\\lib\\common\\connection.js:432:20)\n    at Immediate.<anonymous> (C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\packages\\json-lsp\\node_modules\\vscode-langservers-extracted\\node_modules\\vscode-jsonrpc\\lib\\common\\connection.js:402:30)\n    at process.processImmediate (node:internal/timers:483:21)"
+[START][2024-07-10 01:22:26] LSP logging initiated
+[WARN][2024-07-10 01:22:26] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 01:31:38] LSP logging initiated
+[WARN][2024-07-10 01:31:38] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[ERROR][2024-07-10 01:32:28] ...lsp/handlers.lua:623	"TSServer exited. Code: null. Signal: SIGTERM"
+[START][2024-07-10 01:35:11] LSP logging initiated
+[ERROR][2024-07-10 01:35:11] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="textDocument/foldingRange"\n'
+[ERROR][2024-07-10 01:35:11] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="initialize"\n INFO taplo: registered request handler method="textDocument/documentSymbol"\n INFO taplo: registered request handler method="textDocument/completion"\n INFO taplo: registered request handler method="textDocument/semanticTokens/full"\n INFO taplo: registered request handler method="textDocument/hover"\n INFO taplo: registered request handler method="textDocument/documentLink"\n INFO taplo: registered request handler method="textDocument/formatting"\n INFO taplo: registered request handler method="textDocument/prepareRename"\n INFO taplo: registered notification handler method="initialized"\n INFO taplo: registered request handler method="textDocument/rename"\n INFO taplo: registered notification handler method="textDocument/didClose"\n INFO taplo: registered notification handler method="textDocument/didChange"\n INFO taplo: registered request handler method="taplo/convertToJson"\n INFO taplo: registered request handler method="taplo/convertToToml"\n INFO taplo: registered request handler method="taplo/listSchemas"\n INFO taplo: registered notification handler method="taplo/associateSchema"\n INFO taplo: registered notification handler method="textDocument/didSave"\n INFO taplo: registered notification handler method="workspace/didChangeConfiguration"\n'
+[ERROR][2024-07-10 01:35:11] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered notification handler method="textDocument/didOpen"\n INFO taplo: registered request handler method="taplo/associatedSchema"\n INFO taplo: registered notification handler method="workspace/didChangeWorkspaceFolders"\n INFO taplo: LSP server listening transport="stdio"\n'
+[ERROR][2024-07-10 01:35:39] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	" INFO taplo: received shutdown request id=Number(4) method=shutdown\n"
+[START][2024-07-10 02:53:02] LSP logging initiated
+[WARN][2024-07-10 02:53:02] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[ERROR][2024-07-10 02:54:36] ...lsp/handlers.lua:623	"TSServer exited. Code: null. Signal: SIGTERM"
+[START][2024-07-10 03:40:06] LSP logging initiated
+[ERROR][2024-07-10 03:40:06] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="initialize"\n'
+[ERROR][2024-07-10 03:40:06] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="textDocument/foldingRange"\n INFO taplo: registered request handler method="textDocument/documentSymbol"\n INFO taplo: registered request handler method="textDocument/formatting"\n INFO taplo: registered request handler method="textDocument/completion"\n INFO taplo: registered request handler method="textDocument/hover"\n INFO taplo: registered request handler method="textDocument/documentLink"\n INFO taplo: registered request handler method="textDocument/rename"\n INFO taplo: registered notification handler method="workspace/didChangeConfiguration"\n INFO taplo: registered request handler method="textDocument/semanticTokens/full"\n INFO taplo: registered notification handler method="workspace/didChangeWorkspaceFolders"\n INFO taplo: registered notification handler method="textDocument/didOpen"\n'
+[ERROR][2024-07-10 03:40:06] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered notification handler method="textDocument/didChange"\n INFO taplo: registered notification handler method="textDocument/didSave"\n INFO taplo: registered notification handler method="textDocument/didClose"\n INFO taplo: registered request handler method="textDocument/prepareRename"\n INFO taplo: registered notification handler method="initialized"\n INFO taplo: registered request handler method="taplo/convertToJson"\n INFO taplo: registered request handler method="taplo/convertToToml"\n INFO taplo: registered request handler method="taplo/associatedSchema"\n INFO taplo: registered request handler method="taplo/listSchemas"\n INFO taplo: registered notification handler method="taplo/associateSchema"\n'
+[ERROR][2024-07-10 03:40:06] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: LSP server listening transport="stdio"\n'
+[ERROR][2024-07-10 03:40:08] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	" INFO taplo: received shutdown request id=Number(4) method=shutdown\n"
+[START][2024-07-10 20:03:54] LSP logging initiated
+[WARN][2024-07-10 20:03:54] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 20:49:11] LSP logging initiated
+[WARN][2024-07-10 20:49:11] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 20:55:22] LSP logging initiated
+[WARN][2024-07-10 20:55:22] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-10 20:55:33] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 13): "
+[START][2024-07-10 20:56:08] LSP logging initiated
+[WARN][2024-07-10 20:56:08] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 20:59:36] LSP logging initiated
+[WARN][2024-07-10 20:59:36] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 21:00:58] LSP logging initiated
+[WARN][2024-07-10 21:00:58] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 21:06:15] LSP logging initiated
+[WARN][2024-07-10 21:06:15] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 21:08:55] LSP logging initiated
+[WARN][2024-07-10 21:08:55] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 21:12:56] LSP logging initiated
+[WARN][2024-07-10 21:12:56] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 21:14:31] LSP logging initiated
+[WARN][2024-07-10 21:14:31] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-10 21:14:38] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 2): "
+[START][2024-07-10 21:14:49] LSP logging initiated
+[WARN][2024-07-10 21:14:49] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 21:18:37] LSP logging initiated
+[WARN][2024-07-10 21:18:37] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 21:20:14] LSP logging initiated
+[WARN][2024-07-10 21:20:14] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-10 21:20:19] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 1): "
+[START][2024-07-10 21:21:30] LSP logging initiated
+[WARN][2024-07-10 21:21:30] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 21:23:17] LSP logging initiated
+[WARN][2024-07-10 21:23:17] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 23:24:42] LSP logging initiated
+[WARN][2024-07-10 23:24:42] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-10 23:24:44] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 38): "
+[START][2024-07-10 23:29:49] LSP logging initiated
+[WARN][2024-07-10 23:29:49] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-10 23:37:45] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 3): "
+[WARN][2024-07-10 23:37:45] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 3): "
+[START][2024-07-10 23:41:42] LSP logging initiated
+[WARN][2024-07-10 23:41:42] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 23:42:35] LSP logging initiated
+[WARN][2024-07-10 23:42:35] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 23:49:41] LSP logging initiated
+[WARN][2024-07-10 23:49:41] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 23:54:27] LSP logging initiated
+[WARN][2024-07-10 23:54:27] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-10 23:54:48] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 1): "
+[START][2024-07-10 23:55:26] LSP logging initiated
+[WARN][2024-07-10 23:55:26] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-10 23:58:07] LSP logging initiated
+[WARN][2024-07-10 23:58:07] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 00:11:15] LSP logging initiated
+[WARN][2024-07-11 00:11:15] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:12:17] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 13): "
+[START][2024-07-11 00:17:35] LSP logging initiated
+[WARN][2024-07-11 00:17:35] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 00:25:49] LSP logging initiated
+[WARN][2024-07-11 00:25:49] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:31:26] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 16): "
+[START][2024-07-11 00:34:44] LSP logging initiated
+[WARN][2024-07-11 00:34:44] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:34:51] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 77): "
+[START][2024-07-11 00:35:46] LSP logging initiated
+[WARN][2024-07-11 00:35:46] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:36:43] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 76): "
+[WARN][2024-07-11 00:36:43] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 76): "
+[START][2024-07-11 00:40:02] LSP logging initiated
+[WARN][2024-07-11 00:40:02] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:40:41] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:41:39] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:41:53] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 23): "
+[WARN][2024-07-11 00:41:53] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 23): "
+[ERROR][2024-07-11 00:41:53] ...lsp/handlers.lua:623	"TSServer exited. Code: null. Signal: SIGTERM"
+[START][2024-07-11 00:44:41] LSP logging initiated
+[WARN][2024-07-11 00:44:41] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:45:36] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 13): "
+[WARN][2024-07-11 00:45:36] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 13): "
+[START][2024-07-11 00:45:55] LSP logging initiated
+[WARN][2024-07-11 00:45:55] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:46:03] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 26): "
+[WARN][2024-07-11 00:46:03] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 26): "
+[START][2024-07-11 00:47:04] LSP logging initiated
+[WARN][2024-07-11 00:47:04] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 52): "
+[START][2024-07-11 00:47:44] LSP logging initiated
+[WARN][2024-07-11 00:47:44] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 00:48:12] LSP logging initiated
+[WARN][2024-07-11 00:48:12] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 00:52:20] LSP logging initiated
+[WARN][2024-07-11 00:52:20] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 00:53:41] LSP logging initiated
+[WARN][2024-07-11 00:53:41] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 00:54:30] LSP logging initiated
+[WARN][2024-07-11 00:54:30] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 00:54:46] LSP logging initiated
+[WARN][2024-07-11 00:54:46] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 00:56:00] LSP logging initiated
+[WARN][2024-07-11 00:56:00] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 00:58:45] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 15): "
+[START][2024-07-11 01:01:07] LSP logging initiated
+[WARN][2024-07-11 01:01:07] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 01:01:41] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 18): "
+[START][2024-07-11 01:02:23] LSP logging initiated
+[WARN][2024-07-11 01:02:23] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 01:02:27] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 28): "
+[START][2024-07-11 01:02:47] LSP logging initiated
+[WARN][2024-07-11 01:02:47] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 01:03:28] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 22): "
+[START][2024-07-11 01:04:36] LSP logging initiated
+[WARN][2024-07-11 01:04:36] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 01:05:36] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 23): "
+[START][2024-07-11 01:06:17] LSP logging initiated
+[WARN][2024-07-11 01:06:17] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 01:06:53] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 16): "
+[START][2024-07-11 01:07:27] LSP logging initiated
+[WARN][2024-07-11 01:07:27] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 01:09:12] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 40): "
+[WARN][2024-07-11 01:09:12] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 40): "
+[START][2024-07-11 01:28:40] LSP logging initiated
+[WARN][2024-07-11 01:28:40] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 01:31:18] LSP logging initiated
+[WARN][2024-07-11 01:31:18] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 01:32:24] LSP logging initiated
+[WARN][2024-07-11 01:32:24] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 01:36:11] LSP logging initiated
+[WARN][2024-07-11 01:36:11] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 01:37:23] LSP logging initiated
+[WARN][2024-07-11 01:37:23] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 01:39:27] LSP logging initiated
+[WARN][2024-07-11 01:39:27] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 01:59:09] LSP logging initiated
+[WARN][2024-07-11 01:59:09] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 02:06:42] LSP logging initiated
+[WARN][2024-07-11 02:06:42] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 02:10:12] LSP logging initiated
+[WARN][2024-07-11 02:10:12] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-07-11 02:10:41] LSP logging initiated
+[WARN][2024-07-11 02:10:41] ...lsp/handlers.lua:135	"The language server copilot triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2024-07-11 02:13:58] .../lua/vim/lsp.lua:604	"buf_attach_client called on unloaded buffer (id: 17): "
+[START][2024-07-11 02:14:24] LSP logging initiated
+[WARN][2024-07-11 02:14:24] ...lsp/handlers.lua:135	"The language server tailwindcss triggers a registerCapability handler for workspace/didChangeWorkspaceFolders despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[ERROR][2024-07-11 02:18:56] ...lsp/handlers.lua:623	"TSServer exited. Code: null. Signal: SIGTERM"
+[START][2024-07-11 02:27:01] LSP logging initiated
+[ERROR][2024-07-11 02:27:01] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="initialize"\n'
+[ERROR][2024-07-11 02:27:01] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="textDocument/foldingRange"\n INFO taplo: registered request handler method="textDocument/documentSymbol"\n INFO taplo: registered request handler method="textDocument/formatting"\n INFO taplo: registered request handler method="textDocument/completion"\n INFO taplo: registered request handler method="textDocument/hover"\n INFO taplo: registered request handler method="textDocument/documentLink"\n INFO taplo: registered request handler method="textDocument/rename"\n INFO taplo: registered notification handler method="textDocument/didOpen"\n INFO taplo: registered notification handler method="initialized"\n INFO taplo: registered request handler method="taplo/convertToJson"\n INFO taplo: registered request handler method="taplo/associatedSchema"\n INFO taplo: registered notification handler method="taplo/associateSchema"\n INFO taplo: registered notification handler method="textDocument/didSave"\n INFO taplo: registered request handler method="textDocument/prepareRename"\n INFO taplo: registered notification handler method="workspace/didChangeConfiguration"\n INFO taplo: registered notification handler method="workspace/didChangeWorkspaceFolders"\n INFO taplo: registered request handler method="taplo/convertToToml"\n'
+[ERROR][2024-07-11 02:27:01] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: registered request handler method="textDocument/semanticTokens/full"\n INFO taplo: registered request handler method="taplo/listSchemas"\n INFO taplo: registered notification handler method="textDocument/didChange"\n INFO taplo: registered notification handler method="textDocument/didClose"\n'
+[ERROR][2024-07-11 02:27:01] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	' INFO taplo: LSP server listening transport="stdio"\n'
+[ERROR][2024-07-11 02:27:14] .../vim/lsp/rpc.lua:770	"rpc"	"C:\\Users\\anshu\\AppData\\Local\\nvim-data\\mason\\bin\\taplo.CMD"	"stderr"	" INFO taplo: received shutdown request id=Number(4) method=shutdown\n"
